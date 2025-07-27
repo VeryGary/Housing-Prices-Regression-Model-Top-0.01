@@ -2,7 +2,7 @@
 
 (252/887,250)
 
-![Preview](https://raw.githubusercontent.com/garrettlf/Housing-Prices-Regression-Model/images/Ranking.png)
+![Preview](https://raw.githubusercontent.com/garrettlf/Housing-Prices-Regression-Model/main/images/Ranking.png)
 
 Updating:
 
