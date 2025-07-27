@@ -2,7 +2,7 @@
 
 (252/887,250)
 
-![University Dashboard Preview](https://raw.githubusercontent.com/VeryGary/Housing-Prices-Regression-Model/main/images/Ranking.png)
+![Preview](https://raw.githubusercontent.com/VeryGary/Housing-Prices-Regression-Model/images/Ranking.png)
 
 Updating:
 
