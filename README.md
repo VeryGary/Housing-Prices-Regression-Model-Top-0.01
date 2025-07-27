@@ -7,4 +7,4 @@
 
 Updating:
 
-Spent more time and effort learnign about feature engineering andmake better use of all the date. Mad use of log transformation to scale data better to rrduce skew from outliers in the data.
+Spent more time and effort learning about feature engineering and making better use of all the data. Mad use of log transformation to scale data better to reduce skew from outliers in the data.
