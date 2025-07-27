@@ -1,6 +1,8 @@
-# Housing Prices Regression Model Top-0.01% (252/887,250)
+# Housing Prices Regression Model
 
-![University Dashboard Preview](https://raw.githubusercontent.com/VeryGary/Housing-Prices-Regression-Model/main/Ranking.png)
+(252/887,250)
+
+![University Dashboard Preview](https://raw.githubusercontent.com/VeryGary/Housing-Prices-Regression-Model/main/images/Ranking.png)
 
 Updating:
 
