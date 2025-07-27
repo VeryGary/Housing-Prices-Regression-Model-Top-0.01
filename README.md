@@ -1,6 +1,7 @@
 # Housing Prices Regression Model
-
-(252/887,250)
+## Kaggle Competition: House Prices - Advanced Regression Techniques
+#### Placement: Top 252 out of 887,250 participants
+📎 View on Kaggle
 
 ![Preview](https://raw.githubusercontent.com/garrettlf/Housing-Prices-Regression-Model/main/images/Ranking.png)
 
